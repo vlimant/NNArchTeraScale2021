@@ -6,14 +6,14 @@ We compare two simple trained models and discuss the potential issues with that 
 
 Hands-on:
 
-<here a	notebook url>
+https://github.com/vlimant/NNArchTeraScale2021/blob/master/modelCompare.ipynb
 
 ## Model Training
 As a practical guide to training models, we provide a couple of ingredients to be more confident that a model has converged.
 
 Hands-on:
 
-<here a	notebook url>
+https://github.com/vlimant/NNArchTeraScale2021/blob/master/solutions/modelTrain.ipynb
 
 ## Model Optimization
 Given a model structure, one is usually left with a hand-full of hyper-parameters to scan. We provide a practical guide to navigating these.
@@ -27,7 +27,7 @@ Given a training dataset, the evaluation of a trained model can be subject to fl
 
 Hands-on:
 
-<here a	notebook url>
+https://github.com/vlimant/NNArchTeraScale2021/blob/master/solutions/dataFold.ipynb
 
 ## Data Efficiency
 Given a model and a training dataset, one may wonder if the model could do better with more training samples. We explore the behavior of models on training dataset of variable size.
