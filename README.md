@@ -51,8 +51,7 @@ Hands-on:
 https://github.com/vlimant/NNArchTeraScale2021/blob/master/graphs/mlParticleFlow.ipynb
 
 ### Set-2-Graph models for track clustering in jets
-Excerise notebook based on the model featured in "Secondary Vertex Finding in Jets with Neural Networks" https://arxiv.org/abs/2008.02831
-
+Exercise notebook based on the model featured in "Secondary Vertex Finding in Jets with Neural Networks" https://arxiv.org/abs/2008.02831
 
 Original material:
 
@@ -62,3 +61,15 @@ Hands-on:
 
 https://github.com/vlimant/NNArchTeraScale2021/blob/master/graphs/set2graph.ipynb
 
+### Interaction Network for jet tagging
+Exercise notebook on the interaction network model used for jet tagging in "JEDI-net: a jet identification algorithm based on interaction networks" https://arxiv.org/abs/1908.05318
+
+Original material:
+
+https://github.com/jmduarte/JEDInet-code
+
+https://github.com/jmduarte/capstone-particle-physics-domain
+
+Hands-on:
+
+https://github.com/vlimant/NNArchTeraScale2021/blob/master/graphs/jediNet.ipynb
